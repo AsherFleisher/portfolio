@@ -1,0 +1,55 @@
+# portfolio
+*{margin:0px;padding:0px}
+
+body{font-family: Tahoma;background-color: #e0e0d1;}
+
+header{background-color: #4d2800;height: 140px;border-bottom:solid 3px gray;}
+
+
+
+nav{width:65%;float:right;margin-top:60px}
+
+.menulink{color:#e0e0d1;margin-right:5%;text-decoration: none;}
+
+a:hover{color:gray;}
+
+#one{height:600px;background-color: #e0e0d1;border-bottom:solid 3px gray;}
+
+
+insidesection1{width:85%;height:500px;}
+
+section1div{border-left:solid 1px gray;float:left;width:20%;height:360px;margin-left:4%;margin-top:40px;}
+
+#one h2{font-size: 20px;font-weight: 300;margin-left:8%;color:#4d2800}
+
+section1div img{margin-left: 50px;border:solid 3px;}
+
+section1div a{font-family:Garamond;text-decoration: none;color:   gray
+
+
+;}
+
+section1div a:hover{color:#4d2800}
+
+section1div h1,p{font-size:18px;margin-left: 50px;}
+
+section1div h1{font-size:22px}
+
+[value="READ MORE"]{color:white;background-color: #595959;height: 22px;width:80px; ;font-size: 10px;font-weight: 400}
+
+
+#two{height:  140px;background-color:   #d9d9d9;border-bottom: solid 3px  gray
+;}
+
+section2div{margin-left:10%;margin-top:20px;width:20%;height: 100px;float:left;}
+
+section2div p{font-size: 11px}
+
+section2div h5{margin-left:18%}
+
+footer{ height:  50px;background-color:   #595959
+;
+}
+
+
+footer p{float:right;font-size: 12px;margin-right:200px;margin-top:20px}
